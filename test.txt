@@ -5,3 +5,5 @@ testtest
 
 testtesttest
 
+中文测试
+
